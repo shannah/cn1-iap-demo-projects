@@ -1,0 +1,11 @@
+build
+dist
+private
+*.class
+CodenameOne.jar
+CodenameOne_SRC.zip
+JavaSE.jar
+CLDC11.jar
+*.mobileprovision
+CodeNameOneBuildClient.jar
+*.p12
